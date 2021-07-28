@@ -2,7 +2,7 @@
 
 @title[#:style '(no-toc no-sidebar)
        #:version ""
-       #:tag "xu-xue"]{Xu Xue @smaller{@smaller{@smaller{@smaller{@smaller{{Xu is a given name}}}}}}}
+       #:tag "xu-xue"]{Xu Xue @smaller{@smaller{@smaller{@smaller{@smaller{{Xu is my given name}}}}}}}
 
 I'm a MPhil student at @hyperlink["https://www.cs.hku.hk/people/research-student"]{The University of Hong Kong}, and a member of @hyperlink["https://hkuplg.github.io"]{HKU Programming Languages Group}. My current research is about type inference on type system with intersection types, advised by @hyperlink["https://i.cs.hku.hk/~bruno/"]{Bruno C. d. S. Oliveira}.
 
