@@ -9,8 +9,7 @@ Bookmark of PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
 @section[#:style 'unnumbered
          #:tag "current"]{Currently Reading}
 
-@itemlist[@item{Book: Types and Programming Languages}
-          @item{Book: Type-Driven Development with Idris}
+@itemlist[@item{Book: Type-Driven Development with Idris}
           @item{Book: Certified Programming with Dependent}
           @item{Paperlist: @hyperlink["https://wiki.haskell.org/Research_papers/Functional_pearls"]{Functional Pearls}}
           @item{Paperlist: @hyperlink["https://www.sigplan.org/Awards/POPL/"]{Most Influential POPL Paper Award}}
@@ -21,6 +20,7 @@ Bookmark of PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
          #:tag "202107"]{2021 Jul}
 
 @itemlist[@item{Book: @hyperlink["https://www.wikiwand.com/en/Logicomix"]{Logicomix}}
+          @item{Book: Types and Programming Languages}
           @item{POPL'05: @hyperlink["https://dl.acm.org/doi/10.1145/1047659.1040325"]{Combinators for bi-directional tree transformations}}
           @item{POPL'89: @hyperlink["https://dl.acm.org/doi/abs/10.1145/75277.75283"]{How to make ad-hoc polymorphism less ad hoc}}
           @item{Course: @hyperlink["http://wangyanjing.com/logic-in-math-philosophy-and-cs/"]{Logic in Philosophy, Math, and CS}}
